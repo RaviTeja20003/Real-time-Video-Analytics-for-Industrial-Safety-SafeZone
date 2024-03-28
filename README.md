@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SBSPS-Challenge-10010-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety
 SafeZone: Real-time Video Analytics for Industrial Safety
 1) ## OUTPUT SCREEN SHOTS OF OUR WEB APP ##
@@ -53,3 +54,6 @@ IN THE PROVIDED FOLDERS
                                   
 
 
+=======
+# Real-time-Video-Analytics-for-Industrial-Safety-SafeZone
+>>>>>>> 64313aba8dd9a976356511ccce80de5642b5b337
